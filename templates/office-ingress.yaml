@@ -23,6 +23,6 @@ spec:
             pathType: ImplementationSpecific
             backend:
               service:
-                name: learn-platform-learning-platform-helm
+                name: learning-platform-helm
                 port:
                   number: 80 
